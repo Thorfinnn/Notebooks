@@ -1,0 +1,41 @@
+,Date,Description,Amount,Transaction Type,Category,Account Name
+4,01-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+10,01-10-2018,Phone Company,89.46,debit,Entertainment,Checking
+37,02-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+47,02-12-2018,Phone Company,89.52,debit,Entertainment,Checking
+71,03-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+83,03-12-2018,Phone Company,89.52,debit,Entertainment,Checking
+116,04-03-2018,Amazon Video,6.41,debit,Entertainment,Platinum Card
+119,04-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+126,04-11-2018,Phone Company,89.52,debit,Entertainment,Checking
+160,05-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+169,05-10-2018,Phone Company,111.18,debit,Entertainment,Checking
+192,05/28/2018,Movie Theater,9.62,debit,Entertainment,Silver Card
+194,05/29/2018,Movie Theater,20.0,debit,Entertainment,Silver Card
+195,05/29/2018,Movie Theater,6.25,debit,Entertainment,Silver Card
+205,06-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+214,06-12-2018,Phone Company,89.46,debit,Entertainment,Checking
+241,07-02-2018,Movie Theater,25.0,debit,Entertainment,Silver Card
+244,07-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+247,07-06-2018,Amazon Video,6.41,debit,Entertainment,Platinum Card
+256,07-11-2018,Phone Company,89.46,debit,Entertainment,Checking
+284,08-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+288,08-10-2018,Phone Company,89.4,debit,Entertainment,Checking
+317,09-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+324,09-12-2018,Phone Company,89.4,debit,Entertainment,Checking
+357,10-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+366,10-11-2018,Phone Company,89.4,debit,Entertainment,Checking
+393,11-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+408,11/13/2018,Phone Company,89.54,debit,Entertainment,Checking
+425,11/27/2018,Movie Theater,17.0,debit,Entertainment,Silver Card
+439,12-04-2018,Netflix,11.76,debit,Entertainment,Platinum Card
+448,12-12-2018,Phone Company,89.54,debit,Entertainment,Checking
+495,01-10-2019,Phone Company,65.0,debit,Entertainment,Checking
+524,02-12-2019,Phone Company,65.0,debit,Entertainment,Checking
+556,03-12-2019,Phone Company,65.0,debit,Entertainment,Checking
+592,04-10-2019,Phone Company,65.0,debit,Entertainment,Checking
+628,05-10-2019,Phone Company,65.0,debit,Entertainment,Checking
+665,06-12-2019,Phone Company,65.0,debit,Entertainment,Checking
+701,07-10-2019,Phone Company,65.0,debit,Entertainment,Checking
+741,08-12-2019,Phone Company,65.0,debit,Entertainment,Checking
+781,09-11-2019,Phone Company,65.0,debit,Entertainment,Checking

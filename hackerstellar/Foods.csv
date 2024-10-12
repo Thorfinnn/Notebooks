@@ -1,0 +1,156 @@
+,Date,Description,Amount,Transaction Type,Category,Account Name
+2,01-02-2018,Thai Foods,24.22,debit,Foods,Silver Card
+5,01-05-2018,American Tavern,25.85,debit,Foods,Silver Card
+14,01/13/2018,Pizza Place,32.91,debit,Foods,Platinum Card
+17,01/15/2018,American Tavern,64.11,debit,Foods,Silver Card
+27,01/24/2018,Starbucks,3.0,debit,Foods,Platinum Card
+30,01/29/2018,Thai Foods,25.0,debit,Foods,Silver Card
+31,01/29/2018,Brunch Foods,17.62,debit,Foods,Platinum Card
+36,02-03-2018,Japanese Foods,57.02,debit,Foods,Platinum Card
+44,02-10-2018,Bojangles,10.66,debit,Foods,Platinum Card
+45,02-11-2018,Fancy Foods,106.8,debit,Foods,Platinum Card
+48,02/14/2018,Brewing Company,14.0,debit,Foods,Silver Card
+49,02/15/2018,American Tavern,10.0,debit,Foods,Platinum Card
+52,02/16/2018,Brunch Foods,8.0,debit,Foods,Silver Card
+55,02/20/2018,Mexican Foods,23.51,debit,Foods,Silver Card
+56,02/21/2018,Starbucks,2.0,debit,Foods,Platinum Card
+57,02/22/2018,Starbucks,4.0,debit,Foods,Silver Card
+62,02/26/2018,American Tavern,85.52,debit,Foods,Silver Card
+72,03-04-2018,BBQ Foods,42.24,debit,Foods,Platinum Card
+73,03-05-2018,Starbucks,3.0,debit,Foods,Platinum Card
+76,03-07-2018,Starbucks,3.5,debit,Foods,Platinum Card
+86,03/14/2018,Brunch Foods,8.49,debit,Foods,Platinum Card
+87,03/15/2018,Starbucks,3.5,debit,Foods,Platinum Card
+90,03/17/2018,Brewing Company,19.5,debit,Foods,Silver Card
+91,03/17/2018,Pizza Place,23.34,debit,Foods,Platinum Card
+92,03/19/2018,Mediterranean Foods,36.48,debit,Foods,Silver Card
+101,03/28/2018,Pizza Place,24.98,debit,Foods,Silver Card
+102,03/29/2018,Steakhouse,17.64,debit,Foods,Silver Card
+105,03/31/2018,Belgian Foods,38.32,debit,Foods,Platinum Card
+106,03/31/2018,Chili's,24.74,debit,Foods,Platinum Card
+107,03/31/2018,Greek Foods,41.16,debit,Foods,Silver Card
+109,04-01-2018,Brewing Company,59.48,debit,Foods,Platinum Card
+121,04-06-2018,Tiny Deli,9.76,debit,Foods,Platinum Card
+122,04-08-2018,Irish Pub,22.0,debit,Foods,Platinum Card
+127,04-12-2018,Starbucks,7.0,debit,Foods,Platinum Card
+131,04/13/2018,American Tavern,10.66,debit,Foods,Platinum Card
+133,04/14/2018,American Tavern,41.0,debit,Foods,Platinum Card
+137,04/20/2018,Thai Foods,24.22,debit,Foods,Silver Card
+139,04/21/2018,American Tavern,35.15,debit,Foods,Silver Card
+161,05-05-2018,Bojangles,7.27,debit,Foods,Platinum Card
+162,05-05-2018,Pizza Place,20.52,debit,Foods,Platinum Card
+173,05-12-2018,Liquor Store,27.77,debit,Foods,Platinum Card
+175,05-12-2018,Fancy Foods,78.0,debit,Foods,Platinum Card
+184,05/19/2018,Greek Foods,23.26,debit,Foods,Silver Card
+186,05/21/2018,Thai Foods,26.04,debit,Foods,Silver Card
+201,06-03-2018,Italian Foods,65.81,debit,Foods,Platinum Card
+206,06-06-2018,Starbucks,4.0,debit,Foods,Platinum Card
+209,06-09-2018,Chick-Fil-A,16.18,debit,Foods,Platinum Card
+219,06/16/2018,Starbucks,3.0,debit,Foods,Platinum Card
+220,06/16/2018,Pizza Place,22.66,debit,Foods,Platinum Card
+230,06/23/2018,Brunch Foods,8.5,debit,Foods,Silver Card
+236,06/27/2018,Starbucks,3.5,debit,Foods,Silver Card
+237,06/27/2018,Pizza Place,22.66,debit,Foods,Platinum Card
+242,07-02-2018,American Tavern,36.44,debit,Foods,Silver Card
+259,07/17/2018,Wendy's,15.23,debit,Foods,Silver Card
+262,07/18/2018,Irish Foods,28.54,debit,Foods,Platinum Card
+271,07/23/2018,Starbucks,9.58,debit,Foods,Platinum Card
+272,07/24/2018,American Tavern,26.59,debit,Foods,Platinum Card
+276,07/30/2018,American Tavern,34.38,debit,Foods,Silver Card
+277,07/31/2018,Brewing Company,6.6,debit,Foods,Silver Card
+289,08-11-2018,Chick-Fil-A,13.67,debit,Foods,Platinum Card
+306,08/24/2018,American Tavern,42.31,debit,Foods,Platinum Card
+311,09-01-2018,Brewing Company,47.4,debit,Foods,Platinum Card
+319,09-09-2018,Brewing Company,18.0,debit,Foods,Platinum Card
+339,09/25/2018,Sushi Foods,48.64,debit,Foods,Silver Card
+340,09/26/2018,Starbucks,5.0,debit,Foods,Platinum Card
+348,09/29/2018,Greek Foods,23.26,debit,Foods,Platinum Card
+349,09/29/2018,German Foods,46.7,debit,Foods,Platinum Card
+350,10-01-2018,Starbucks,3.0,debit,Foods,Platinum Card
+358,10-06-2018,American Tavern,27.0,debit,Foods,Silver Card
+373,10/18/2018,Brunch Foods,8.0,debit,Foods,Platinum Card
+382,10/27/2018,American Tavern,25.4,debit,Foods,Silver Card
+383,10/28/2018,Brewing Company,12.71,debit,Foods,Platinum Card
+384,10/28/2018,SeaFoods Foods,14.75,debit,Foods,Platinum Card
+386,10/28/2018,Italian Foods,54.0,debit,Foods,Platinum Card
+392,11-03-2018,Pizza Place,23.66,debit,Foods,Platinum Card
+400,11-10-2018,Brewing Company,27.0,debit,Foods,Platinum Card
+401,11-10-2018,Chick-Fil-A,14.19,debit,Foods,Platinum Card
+404,11-12-2018,American Tavern,22.33,debit,Foods,Silver Card
+411,11/17/2018,Brewing Company,22.8,debit,Foods,Platinum Card
+414,11/17/2018,Greek Foods,23.26,debit,Foods,Platinum Card
+415,11/19/2018,Brewing Company,20.0,debit,Foods,Silver Card
+423,11/26/2018,American Tavern,16.8,debit,Foods,Silver Card
+426,11/27/2018,American Tavern,28.4,debit,Foods,Silver Card
+432,12-01-2018,Brunch Foods,8.0,debit,Foods,Silver Card
+437,12-04-2018,Starbucks,3.0,debit,Foods,Silver Card
+438,12-04-2018,Latin Foods,20.65,debit,Foods,Platinum Card
+447,12-11-2018,Brunch Foods,10.29,debit,Foods,Platinum Card
+449,12/13/2018,Thai Foods,27.0,debit,Foods,Silver Card
+453,12/17/2018,American Tavern,63.0,debit,Foods,Silver Card
+456,12/18/2018,Starbucks,3.0,debit,Foods,Silver Card
+459,12/18/2018,Fancy Foods,56.52,debit,Foods,Silver Card
+469,12/22/2018,New York Deli,21.38,debit,Foods,Platinum Card
+473,12/26/2018,Chick-Fil-A,56.07,debit,Foods,Platinum Card
+478,12/28/2018,Brewing Company,12.0,debit,Foods,Silver Card
+479,12/29/2018,Brewing Company,14.0,debit,Foods,Silver Card
+487,01-05-2019,American Tavern,23.49,debit,Foods,Platinum Card
+511,02-01-2019,Roadside Diner,9.47,debit,Foods,Silver Card
+517,02-08-2019,Starbucks,3.0,debit,Foods,Platinum Card
+518,02-08-2019,Thai Foods,27.47,debit,Foods,Platinum Card
+520,02-11-2019,Starbucks,3.0,debit,Foods,Platinum Card
+531,02/16/2019,Brewing Company,8.0,debit,Foods,Platinum Card
+532,02/16/2019,American Tavern,32.75,debit,Foods,Platinum Card
+543,02/27/2019,Roadside Diner,25.77,debit,Foods,Silver Card
+550,03-05-2019,Fancy Foods,7.0,debit,Foods,Silver Card
+557,03-12-2019,Bakery Place,3.02,debit,Foods,Platinum Card
+562,03/14/2019,Brunch Foods,8.0,debit,Foods,Platinum Card
+571,03/23/2019,Starbucks,5.2,debit,Foods,Platinum Card
+574,03/27/2019,Brewing Company,49.63,debit,Foods,Platinum Card
+577,03/30/2019,Starbucks,12.84,debit,Foods,Platinum Card
+598,04/13/2019,Vietnamese Foods,20.64,debit,Foods,Platinum Card
+606,04/22/2019,Brewing Company,14.4,debit,Foods,Silver Card
+607,04/22/2019,Greek Foods,64.52,debit,Foods,Silver Card
+611,04/27/2019,Brewing Company,40.0,debit,Foods,Platinum Card
+613,04/27/2019,American Tavern,14.74,debit,Foods,Silver Card
+632,05/13/2019,Fancy Foods,98.19,debit,Foods,Silver Card
+633,05/13/2019,Greek Foods,23.11,debit,Foods,Silver Card
+640,05/20/2019,American Tavern,32.53,debit,Foods,Silver Card
+644,05/24/2019,Brunch Foods,8.0,debit,Foods,Platinum Card
+647,05/27/2019,Mexican Foods,34.33,debit,Foods,Platinum Card
+650,05/30/2019,American Tavern,34.82,debit,Foods,Platinum Card
+652,06-03-2019,Starbucks,2.75,debit,Foods,Platinum Card
+658,06-05-2019,Mexican Foods,23.24,debit,Foods,Platinum Card
+659,06-06-2019,Starbucks,3.75,debit,Foods,Platinum Card
+672,06/18/2019,Brewing Company,15.0,debit,Foods,Silver Card
+680,06/24/2019,Brewing Company,15.0,debit,Foods,Silver Card
+683,07-01-2019,Starbucks,7.0,debit,Foods,Silver Card
+685,07-01-2019,Hawaiian Grill,24.97,debit,Foods,Silver Card
+686,07-01-2019,Thai Foods,24.0,debit,Foods,Silver Card
+691,07-05-2019,Brewing Company,19.0,debit,Foods,Silver Card
+695,07-06-2019,Greek Foods,23.26,debit,Foods,Platinum Card
+711,07/18/2019,Brunch Foods,8.82,debit,Foods,Platinum Card
+714,07/19/2019,Mexican Foods,28.0,debit,Foods,Platinum Card
+716,07/22/2019,Thai Foods,26.67,debit,Foods,Silver Card
+718,07/24/2019,Starbucks,2.5,debit,Foods,Silver Card
+722,07/29/2019,Fancy Foods,44.92,debit,Foods,Silver Card
+730,08-03-2019,American Tavern,23.47,debit,Foods,Platinum Card
+732,08-05-2019,Brewing Company,18.0,debit,Foods,Silver Card
+742,08-12-2019,Thai Foods,26.67,debit,Foods,Silver Card
+743,08/14/2019,Starbucks,2.75,debit,Foods,Platinum Card
+751,08/17/2019,American Tavern,3.5,debit,Foods,Platinum Card
+754,08/20/2019,Starbucks,2.75,debit,Foods,Platinum Card
+756,08/23/2019,Starbucks,2.75,debit,Foods,Platinum Card
+757,08/25/2019,Brunch Foods,39.43,debit,Foods,Platinum Card
+759,08/29/2019,Starbucks,3.0,debit,Foods,Platinum Card
+760,08/30/2019,Starbucks,2.75,debit,Foods,Platinum Card
+764,08/31/2019,BBQ Foods,41.78,debit,Foods,Silver Card
+767,09-03-2019,Fancy Foods,41.24,debit,Foods,Silver Card
+769,09-05-2019,Starbucks,3.75,debit,Foods,Platinum Card
+773,09-07-2019,Brewing Company,12.87,debit,Foods,Platinum Card
+774,09-08-2019,Brewing Company,19.3,debit,Foods,Platinum Card
+783,09/13/2019,Starbucks,2.75,debit,Foods,Platinum Card
+794,09/19/2019,Brewing Company,40.81,debit,Foods,Platinum Card
+795,09/19/2019,Starbucks,2.75,debit,Foods,Platinum Card
+797,09/22/2019,SeaFoods Foods,131.1,debit,Foods,Platinum Card
+804,09/30/2019,Starbucks,1.75,debit,Foods,Platinum Card
